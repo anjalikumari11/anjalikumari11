@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Anjali kumari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjalikumari11&label=Profile%20views&color=0e75b6&style=flat" alt="anjalikumari11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjalikumari11" alt="anjalikumari11" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript and Java**
+- 🌱 I’m currently learning **React-native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anjalikumari11](https://github.com/anjalikumari11)
 
-- 💬 Ask me about **HTML, CSS, PHP, Java, Javascript, Mysql.**
+- 💬 Ask me about **HTML, CSS, PHP, Java, Javascript, Mysql,springboot,reactjs.**
 
 - 📫 How to reach me **anjalikumari38895@gmail.com**
 
